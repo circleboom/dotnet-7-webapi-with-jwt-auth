@@ -1,6 +1,6 @@
-# .net 7 WebAPI with Json Web Token authorization
+# dotnet-7-webapi-with-jwt-auth
 
-This project is a template for a .net 7 WebAPI with JWT authorization.
+This project is a template for a .net 7 Web API with JWT Bearer authorization.
 
 ## App Settings
 
@@ -39,4 +39,3 @@ If you want to skip any of the validations, just leave the value empty.
     "user_id": "user id from the JWT token"
     }
     ```
-    
